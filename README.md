@@ -1,1 +1,1 @@
-# "{{cookiecutter.prefix}}-{{cookiecutter.name}}"
+# "{{ cookiecutter.prefix }}-{{ cookiecutter.name }}"

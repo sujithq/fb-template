@@ -6,5 +6,5 @@ terraform {
 provider "azurerm" {
   features {}
   # Visual Studio Professional Subscription + Github
-  subscription_id = "{{cookiecutter.subscription_id}}"
+  subscription_id = "{{ cookiecutter.subscription_id}} "
 }

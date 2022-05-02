@@ -1,3 +1,3 @@
 locals {
-  name = "{{cookiecutter.prefix}}-{{cookiecutter.name}}"
+  name = "{{ cookiecutter.prefix }}-{{ cookiecutter.name }}"
 }
