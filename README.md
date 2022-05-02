@@ -1,1 +1,1 @@
-# "{{ cookiecutter.prefix }}-{{ cookiecutter.name }}"
+# fb-template
